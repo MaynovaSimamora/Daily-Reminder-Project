@@ -59,19 +59,19 @@ Aplikasi Task Manager adalah program berbasis Java untuk mengelola tugas-tugas h
       java -cp bin Main
 
 **Pembagian Tugas**
-Anggota 1: Diani
+1. Anggota 1: Diani
   - Mendesain interface ITask
   - Mengimplementasikan kelas dasar Task
   - Membuat kelas PriorityTask sebagai turunan Task
-Anggota 2: Geby
+2. Anggota 2: Geby
   - Mengimplementasikan TaskManager dengan semua fitur manajemen tugas
   - Membuat dokumentasi
   - Membantu pengerjaan di tugas anggota 4
-Anggota 3:
+3. Anggota 3:
   - Menangani input pengguna dan validasi
   - Mengintegrasikan semua komponen
   - Membantu pengerjaan di tugas anggota 1
-Anggota 4: Aril
+4. Anggota 4: Aril
   - Membuat antarmuka pengguna (Main class)
   - Mengimplementasikan menu dan alur program
   - Mengintegrasikan semua komponen
