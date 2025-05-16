@@ -67,7 +67,7 @@ Aplikasi Task Manager adalah program berbasis Java untuk mengelola tugas-tugas h
   - Mengimplementasikan TaskManager dengan semua fitur manajemen tugas
   - Membuat dokumentasi
   - Membantu pengerjaan di tugas anggota 4
-3. Anggota 3:
+3. Anggota 3: Zahra
   - Menangani input pengguna dan validasi
   - Mengintegrasikan semua komponen
   - Membantu pengerjaan di tugas anggota 1
